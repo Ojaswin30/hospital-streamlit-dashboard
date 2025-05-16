@@ -1,0 +1,20 @@
+[
+  {
+    "agent_id": "A001",
+    "role": "Doctor",
+    "current_room": "icu_zone_1",
+    "status": "Active"
+  },
+  {
+    "agent_id": "A002",
+    "role": "Nurse",
+    "current_room": "ward_A",
+    "status": "Idle"
+  },
+  {
+    "agent_id": "A003",
+    "role": "EMT",
+    "current_room": "reception",
+    "status": "Error"
+  }
+]

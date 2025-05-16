@@ -1,0 +1,23 @@
+[
+  {
+    "patient_id": "P001",
+    "event": "admitted",
+    "location": "ward_A",
+    "timestamp": "2025-05-15T10:00:00Z",
+    "status": "Active"
+  },
+  {
+    "patient_id": "P002",
+    "event": "transferred",
+    "location": "icu_zone_1",
+    "timestamp": "2025-05-15T10:15:00Z",
+    "status": "Idle"
+  },
+  {
+    "patient_id": "P003",
+    "event": "discharged",
+    "location": "reception",
+    "timestamp": "2025-05-15T10:30:00Z",
+    "status": "Completed"
+  }
+]
